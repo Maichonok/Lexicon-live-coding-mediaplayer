@@ -1,0 +1,17 @@
+* {
+  /* border-box will include padding and border in the calculation of the total width of an element*/
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+body {
+  background-color: #1a1a6e;
+  padding-top: 54px;
+}
+
+main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}

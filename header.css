@@ -1,0 +1,17 @@
+.header {
+  align-items: center;
+  /* background-color: #1a1a6e; */
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 20px;
+
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+.header .header-text {
+  font-size: 20px;
+}
